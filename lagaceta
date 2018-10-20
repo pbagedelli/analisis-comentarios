@@ -1,0 +1,6 @@
+sitio = ''
+año = '2018'
+mes = '09'
+dia ='19'
+categ = 'economia'
+url = 'https://www.google.com.ar/search?ei=SlfLW6OEO8XI5gLvl5ngAg&q=*+site%3Ahttps%3A%2F%2F' + sitio + '%2F' + categ + '%2F' + año + '%2F' + mes +'%2F' +dia+ '%2F&oq=*+site%3Ahttps%3A%2F%2Fwww.infobae.com%2F' + categ + '%2F' + año + '%2F' +mes+ '%2F' + dia + '%2F&gs_l=psy-ab.4...21974.22911.0.23438.4.4.0.0.0.0.260.513.2-2.2.0....0...1.1.64.psy-ab..2.0.0....0.xnbtghTKDls'
