@@ -4,3 +4,5 @@
 [1024/011400.138:ERROR:exception_snapshot_win.cc(88)] thread ID 6404 not found in process
 [1024/012535.936:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
 [1024/015703.358:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1026/020355.322:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1026/020355.323:ERROR:exception_snapshot_win.cc(88)] thread ID 14828 not found in process
