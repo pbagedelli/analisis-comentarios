@@ -1,61 +1,61 @@
-,0
-0,
-1,Martín Luciano Insaurralde
-2,Luis Beldi
-3,Román Lejtman
-4,Fernando Morales
-5,Silvia Mercado
-6,Fernando Soriano
-7,Gustavo Yarroch
-8,Francisco Bueno
-9,Ernesto Tenembaum
-10,Luis Novaresio
-11,Omar Lavieri
-12,Gustavo López
-13,Martín Angulo
-14,Pablo Wende
-15,Loreley Gaffoglio
-16,Gastón Calvo
-17,Juan Gasalla
-18,Ximena Casas
-19,Eduardo Aulicino
-20,Mauricio Luna
-21,Cherquis Bialo
-22,Laura Rocha
-23,Pablo Riggio
-24,Milagros Monti
-25,Gustavo Segré
-26,Daniel Sticco
-27,Federico Mayol
-28,Pilar Safatle
-29,Mariel Fitz Patrick
-30,Carlos Arbia
-31,Juan Piscetta
-32,Fernanda Kobelinsky
-33,Milton Del Moral
-34,Leonardo Mindez
-35,Fernanda Jara
-36,Nieves Otero
-37,Darío Mizrahi
-38,Claudia Peiró
-39,Martín Dinatale
-40,Gisele Sousa Dias
-41,Tatiana Schapiro
-42,Matías Bauso
-43,Mariano Thieberger
-44,Agustina Larrea
-45,Mariana Dahbar
-46,Daniela Lichinizer
-47,Patricia Blanco
-48,Gerardo González
-49,Gaby Cociffi
-50,George Chaya
-51,Roberto Bosca
-52,Camila Hadad
-53,Gastón Sanguinetti
-54,Gisela Marziotta
-55,Fernando Taveira
-56,Sebastián Catalano
-57,Alejo Santander
-58,Leonardo Tagliabúe
-59,Ernesto Mattos
+,autor,nombre,genero
+0,,,
+1,Martín Luciano Insaurralde,Martín,
+2,Luis Beldi,Luis,male
+3,Román Lejtman,Román,male
+4,Fernando Morales,Fernando,male
+5,Silvia Mercado,Silvia,female
+6,Fernando Soriano,Fernando,male
+7,Gustavo Yarroch,Gustavo,male
+8,Francisco Bueno,Francisco,male
+9,Ernesto Tenembaum,Ernesto,male
+10,Luis Novaresio,Luis,male
+11,Omar Lavieri,Omar,male
+12,Gustavo López,Gustavo,male
+13,Martín Angulo,Martín,male
+14,Pablo Wende,Pablo,male
+15,Loreley Gaffoglio,Loreley,female
+16,Gastón Calvo,Gastón,male
+17,Juan Gasalla,Juan,male
+18,Ximena Casas,Ximena,female
+19,Eduardo Aulicino,Eduardo,male
+20,Mauricio Luna,Mauricio,male
+21,Cherquis Bialo,Cherquis,male
+22,Laura Rocha,Laura,female
+23,Pablo Riggio,Pablo,male
+24,Milagros Monti,Milagros,female
+25,Gustavo Segré,Gustavo,male
+26,Daniel Sticco,Daniel,male
+27,Federico Mayol,Federico,male
+28,Pilar Safatle,Pilar,female
+29,Mariel Fitz Patrick,Mariel,female
+30,Carlos Arbia,Carlos,male
+31,Juan Piscetta,Juan,male
+32,Fernanda Kobelinsky,Fernanda,female
+33,Milton Del Moral,Milton,male
+34,Leonardo Mindez,Leonardo,male
+35,Fernanda Jara,Fernanda,female
+36,Nieves Otero,Nieves,female
+37,Darío Mizrahi,Darío,male
+38,Claudia Peiró,Claudia,female
+39,Martín Dinatale,Martín,male
+40,Gisele Sousa Dias,Gisele,female
+41,Tatiana Schapiro,Tatiana,female
+42,Matías Bauso,Matías,male
+43,Mariano Thieberger,Mariano,male
+44,Agustina Larrea,Agustina,female
+45,Mariana Dahbar,Mariana,female
+46,Daniela Lichinizer,Daniela,female
+47,Patricia Blanco,Patricia,female
+48,Gerardo González,Gerardo,male
+49,Gaby Cociffi,Gaby,female
+50,George Chaya,George,male
+51,Roberto Bosca,Roberto,male
+52,Camila Hadad,Camila,female
+53,Gastón Sanguinetti,Gastón,male
+54,Gisela Marziotta,Gisela,female
+55,Fernando Taveira,Fernando,male
+56,Sebastián Catalano,Sebastián,male
+57,Alejo Santander,Alejo,male
+58,Leonardo Tagliabúe,Leonardo,male
+59,Ernesto Mattos,Ernesto,male

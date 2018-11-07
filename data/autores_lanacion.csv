@@ -1,151 +1,159 @@
-,0
-0,Andrés Eliceche
-1,
-2,Franco Tossi
-3,Claudio Mauri
-4,Javier Blanco
-5,Sofía Diamante
-6,Silvia Stang
-7,Alberto Armendáriz
-8,Silvia Pisani
-9,Julia Montesoro
-10,Rafael Mathus Ruiz
-11,Gabriela Origlia 
-12,Fabiola Czubaj
-13,Daniela Chueke Perles
-14,Nora Bär
-15,Juan Patricio Balbi Vignolo
-16,Sebastián Torok
-17,Fernando Vergara
-18,Paula Urien
-19,Elisabetta Piqué
-20,Natalia Trzenko
-21,Hernán Cappiello
-22,Darío Palavecino
-23,Víctor Pombinho Soares
-24,Pablo Mannino
-25,"
-
-"
-26,Alejandro Casar González
-27,María Julieta Rumi
-28,Andrés Krom
-29,Marcelo Stiletano
-30,Cecilia Martínez
-31,Laura Chertkoff
-32,Santiago Dapelo
-33,Iván Ruiz
-34,Gabriel Di Nicola
-35,Pablo Ricardi
-36,Julia D'Arrisso
-37,Francisco Jueguen
-38,Mariana Reinke
-39,Charlotte Graham-McLay
-40,Joaquín Vismara
-41,Virginia Chacon Dorr
-42,Rocío García
-43,Silvina Ajmat
-44,Leonardo Scannone
-45,Román Iucht
-46,Agustín Monguillot
-47,Pablo Montagna
-48,Mariano Obarrio
-49,Nicolás Rotnitzky
-50,Patricio Insua
-51,José María Costa
-52,Hugo Alconada Mon
-53,Nicolás Balinotti
-54,Juan Carlos de Pablo
-55,Stephen Kalin
-56,Paula Vázquez Prieto
-57,Sebastián Chaves
-58,Carlos Pacheco
-59,Javier Fuego Simondet
-60,Fernando J. de Aróstegui
-61,Hernán Ferreirós
-62,Paz Rodríguez Niell
-63,Sofía Terrile
-64,María Ayzaguer
-65,Martín Artigas
-66,Laura Serra
-67,Federico Acosta Rainis
-68,Nicolás Cassese
-69,Germán Leza
-70,Santiago Bulat
-71,Carlos Manzoni
-72,Diego Batlle
-73,Natalia Laube
-74,Gustavo Carabajal
-75,Carlos Delfino
-76,Sol Amaya
-77,Xavier Prieto Astigarraga
-78,Sebastián Fest
-79,Jorge Búsico
-80,Matías Baldo
-81,Diego Mancusi
-82,Daniel Gallo
-83,Daniel Lozano
-84,Jaime Rosemberg
-85,Silvina Premat
-86,Germán de los Santos
-87,Alfredo Sainz
-88,Gastón Saiz
-89,Leandro Vesco
-90,Sofía Orsay
-91,Gabriel Sued
-92,Mauricio Giambartolomei
-93,Pablo Fernández Blanco
-94,Sebastián Ramos
-95,Marcelo Veneranda
-96,Romina Colman
-97,Pilar Tapia
-98,Mariana Israel
-99,Silvina Marino
-100,Fernanda Iglesias
-101,María José Lucesole
-102,Ana Tronfi
-103,Paloma Suárez Echeverría
-104,Luis Eduardo Meglioli
-105,Nelson Fernández
-106,Martín Fernández Cruz
-107,Gabriel Plaza
-108,Claudio Jacquelin
-109,Rodolfo Chisleanschi
-110,Gonzalo Capozzolo
-111,Diego Morini
-112,José Del Rio
-113,Agustín Reynal
-114,Bassem Mroue 
-115,Tomás Balmaceda
-116,María Fernanda Mugica
-117,Claudia Guzmán
-118,Luisa Corradini
-119,Diego Cabot
-120,Alan Soria Guadalupe
-121,Gustavo S. González
-122,Daniel Santa Cruz 
-123,David Kirkpatrick
-124,Maia Jastreblansky
-125,Rosario Marina
-126,Claudio Cerviño
-127,Ignacio Federico
-128,Alejandro Lingenti
-129,Brenda Struminger
-130,Jesica Rizzo
-131,Yamila Trautman
-132,María Pettinelli
-133,Ariel Ruya
-134,Pablo Casazza
-135,Ariel Barraud
-136,Mariela Arias
-137,Ricardo Salton
-138,José E. Bordón
-139,Damián Di Pace
-140,Tamara Talesnik
-141,Dolores Graña
-142,Rubén Guillemí
-143,Vanesa Listek
-144,Pablo Lisotto
-145,Esteban Lafuente
-146,Sebastián Espósito
-147,Irene Crespo
+,autor,nombre,genero
+0,Andrés Eliceche,Andrés,male
+1,,,
+2,Franco Tossi,Franco,male
+3,Claudio Mauri,Claudio,male
+4,Javier Blanco,Javier,male
+5,Sofía Diamante,Sofía,female
+6,Silvia Stang,Silvia,female
+7,Alberto Armendáriz,Alberto,male
+8,Silvia Pisani,Silvia,female
+9,Julia Montesoro,Julia,female
+10,Rafael Mathus Ruiz,Rafael,male
+11,Gabriela Origlia ,Gabriela,female
+12,Fabiola Czubaj,Fabiola,female
+13,Daniela Chueke Perles,Daniela,female
+14,Nora Bär,Nora,female
+15,Juan Patricio Balbi Vignolo,Juan,male
+16,Sebastián Torok,Sebastián,male
+17,Fernando Vergara,Fernando,male
+18,Paula Urien,Paula,female
+19,Elisabetta Piqué,Elisabetta,female
+20,Natalia Trzenko,Natalia,female
+21,Hernán Cappiello,Hernán,male
+22,Darío Palavecino,Darío,male
+23,Víctor Pombinho Soares,Víctor,male
+24,Pablo Mannino,Pablo,male
+25,"
+
+
+
+
+
+
+
+
+
+",,
+26,Alejandro Casar González,Alejandro,male
+27,María Julieta Rumi,María,female
+28,Andrés Krom,Andrés,male
+29,Marcelo Stiletano,Marcelo,male
+30,Cecilia Martínez,Cecilia,female
+31,Laura Chertkoff,Laura,female
+32,Santiago Dapelo,Santiago,male
+33,Iván Ruiz,Iván,male
+34,Gabriel Di Nicola,Gabriel,male
+35,Pablo Ricardi,Pablo,male
+36,Julia D'Arrisso,Julia,female
+37,Francisco Jueguen,Francisco,male
+38,Mariana Reinke,Mariana,female
+39,Charlotte Graham-McLay,Charlotte,female
+40,Joaquín Vismara,Joaquín,male
+41,Virginia Chacon Dorr,Virginia,female
+42,Rocío García,Rocío,female
+43,Silvina Ajmat,Silvina,female
+44,Leonardo Scannone,Leonardo,male
+45,Román Iucht,Román,male
+46,Agustín Monguillot,Agustín,male
+47,Pablo Montagna,Pablo,male
+48,Mariano Obarrio,Mariano,male
+49,Nicolás Rotnitzky,Nicolás,male
+50,Patricio Insua,Patricio,male
+51,José María Costa,José,male
+52,Hugo Alconada Mon,Hugo,male
+53,Nicolás Balinotti,Nicolás,
+54,Juan Carlos de Pablo,Juan,male
+55,Stephen Kalin,Stephen,male
+56,Paula Vázquez Prieto,Paula,female
+57,Sebastián Chaves,Sebastián,
+58,Carlos Pacheco,Carlos,male
+59,Javier Fuego Simondet,Javier,male
+60,Fernando J. de Aróstegui,Fernando,male
+61,Hernán Ferreirós,Hernán,male
+62,Paz Rodríguez Niell,Paz,female
+63,Sofía Terrile,Sofía,female
+64,María Ayzaguer,María,female
+65,Martín Artigas,Martín,male
+66,Laura Serra,Laura,female
+67,Federico Acosta Rainis,Federico,male
+68,Nicolás Cassese,Nicolás,male
+69,Germán Leza,Germán,male
+70,Santiago Bulat,Santiago,male
+71,Carlos Manzoni,Carlos,male
+72,Diego Batlle,Diego,male
+73,Natalia Laube,Natalia,female
+74,Gustavo Carabajal,Gustavo,male
+75,Carlos Delfino,Carlos,male
+76,Sol Amaya,Sol,female
+77,Xavier Prieto Astigarraga,Xavier,male
+78,Sebastián Fest,Sebastián,male
+79,Jorge Búsico,Jorge,male
+80,Matías Baldo,Matías,male
+81,Diego Mancusi,Diego,male
+82,Daniel Gallo,Daniel,male
+83,Daniel Lozano,Daniel,male
+84,Jaime Rosemberg,Jaime,male
+85,Silvina Premat,Silvina,female
+86,Germán de los Santos,Germán,male
+87,Alfredo Sainz,Alfredo,male
+88,Gastón Saiz,Gastón,male
+89,Leandro Vesco,Leandro,male
+90,Sofía Orsay,Sofía,female
+91,Gabriel Sued,Gabriel,male
+92,Mauricio Giambartolomei,Mauricio,male
+93,Pablo Fernández Blanco,Pablo,male
+94,Sebastián Ramos,Sebastián,male
+95,Marcelo Veneranda,Marcelo,male
+96,Romina Colman,Romina,female
+97,Pilar Tapia,Pilar,female
+98,Mariana Israel,Mariana,female
+99,Silvina Marino,Silvina,female
+100,Fernanda Iglesias,Fernanda,female
+101,María José Lucesole,María,female
+102,Ana Tronfi,Ana,female
+103,Paloma Suárez Echeverría,Paloma,female
+104,Luis Eduardo Meglioli,Luis,male
+105,Nelson Fernández,Nelson,male
+106,Martín Fernández Cruz,Martín,male
+107,Gabriel Plaza,Gabriel,male
+108,Claudio Jacquelin,Claudio,male
+109,Rodolfo Chisleanschi,Rodolfo,male
+110,Gonzalo Capozzolo,Gonzalo,male
+111,Diego Morini,Diego,male
+112,José Del Rio,José,male
+113,Agustín Reynal,Agustín,male
+114,Bassem Mroue ,Bassem,male
+115,Tomás Balmaceda,Tomás,male
+116,María Fernanda Mugica,María,female
+117,Claudia Guzmán,Claudia,female
+118,Luisa Corradini,Luisa,female
+119,Diego Cabot,Diego,male
+120,Alan Soria Guadalupe,Alan,male
+121,Gustavo S. González,Gustavo,male
+122,Daniel Santa Cruz ,Daniel,male
+123,David Kirkpatrick,David,male
+124,Maia Jastreblansky,Maia,female
+125,Rosario Marina,Rosario,female
+126,Claudio Cerviño,Claudio,male
+127,Ignacio Federico,Ignacio,male
+128,Alejandro Lingenti,Alejandro,male
+129,Brenda Struminger,Brenda,female
+130,Jesica Rizzo,Jesica,female
+131,Yamila Trautman,Yamila,female
+132,María Pettinelli,María,female
+133,Ariel Ruya,Ariel,male
+134,Pablo Casazza,Pablo,male
+135,Ariel Barraud,Ariel,male
+136,Mariela Arias,Mariela,female
+137,Ricardo Salton,Ricardo,male
+138,José E. Bordón,José,male
+139,Damián Di Pace,Damián,male
+140,Tamara Talesnik,Tamara,female
+141,Dolores Graña,Dolores,female
+142,Rubén Guillemí,Rubén,male
+143,Vanesa Listek,Vanesa,female
+144,Pablo Lisotto,Pablo,male
+145,Esteban Lafuente,Esteban,male
+146,Sebastián Espósito,Sebastián,male
+147,Irene Crespo,Irene,female
