@@ -1,92 +1,92 @@
-autor,genero,toxicity
-Agustín Monguillot,male,0.25907733872222216
-Alan Soria Guadalupe,male,0.2259690248814434
-Alberto Armendáriz,male,0.2662146041747145
-Alejandro Casar González,male,0.25139919714137937
-Alejandro Lingenti,male,0.020036254
-Ana Tronfi,female,0.2558555150512821
-Andrés Eliceche,male,0.11968963929166666
-Andrés Krom,male,0.2812736191111111
-Ariel Ruya,male,0.345583384
-Bassem Mroue ,male,0.3835852
-Carlos Delfino,male,0.2524285953153847
-Claudia Guzmán,female,0.058438856
-Claudio Cerviño,male,0.2341515872079209
-Claudio Jacquelin,male,0.2515183
-Claudio Mauri,male,0.17567595303333328
-Daniel Gallo,male,0.21975398361933307
-Daniel Lozano,male,0.3025541715931298
-Darío Palavecino,male,0.21750147197185926
-David Kirkpatrick,male,0.32957961
-Diego Cabot,male,0.23541529429341865
-Diego Mancusi,male,0.40892452
-Dolores Graña,female,0.10521002
-Elisabetta Piqué,female,0.3021376867675479
-Esteban Lafuente,male,0.23622692720205107
-Federico Acosta Rainis,male,0.23298391662222223
-Fernando J. de Aróstegui,male,0.2667290983383458
-Fernando Vergara,male,0.20495725625278682
-Francisco Jueguen,male,0.24036378491353377
-Franco Tossi,male,0.16761828217647057
-Gabriel Di Nicola,male,0.230326575
-Gabriel Sued,male,0.25408964760583086
-Gabriela Origlia ,female,0.23443266186956518
-Germán Leza,male,0.19998975215723266
-Germán de los Santos,male,0.178061862
-Gustavo Carabajal,male,0.13685389773333334
-Gustavo S. González,male,0.070022585
-Hernán Cappiello,male,0.22584859542673522
-Ignacio Federico,male,0.2771483624355067
-Iván Ruiz,male,0.2567440390558376
-Jaime Rosemberg,male,0.2628422458303079
-Javier Blanco,male,0.17284630858294925
-Javier Fuego Simondet,male,0.264788188864865
-Jorge Búsico,male,0.1963057088888889
-José Del Rio,male,0.18899340780645157
-José E. Bordón,male,0.22744198356060605
-José María Costa,male,0.16234420737500002
-Juan Patricio Balbi Vignolo,male,0.29087547129411767
-Julia D'Arrisso,female,0.20551352177619886
-Laura Serra,female,0.2605917044722645
-Leandro Vesco,male,0.21049182230612248
-Maia Jastreblansky,female,0.2566756402044196
-Marcelo Veneranda,male,0.22143318714285717
-Mariana Israel,female,0.4251348
-Mariana Reinke,female,0.1325936837142857
-Mariano Obarrio,male,0.26471680289565214
-María Ayzaguer,female,0.3509240648888889
-María Fernanda Mugica,female,0.08228964033333333
-María José Lucesole,female,0.2658415825238095
-María Julieta Rumi,female,0.231672879978836
-Matías Baldo,male,0.20569610000000002
-Natalia Trzenko,female,0.09830117117647058
-Nicolás Cassese,male,0.0771628875
-Nora Bär,female,0.10569487659999999
-Pablo Fernández Blanco,male,0.20179260108888897
-Pablo Mannino,male,0.3031007236111111
-Pablo Montagna,male,0.25326321930000006
-Paloma Suárez Echeverría,female,0.19863188
-Patricio Insua,male,0.2153340249154929
-Paula Urien,female,0.27851849
-Paz Rodríguez Niell,female,0.23200413779565174
-Rafael Mathus Ruiz,male,0.26121751723364867
-Ricardo Salton,male,0.02895263
-Rosario Marina,female,0.2658197446470588
-Rubén Guillemí,male,0.23428057192307694
-Santiago Bulat,male,0.12069389745
-Santiago Dapelo,male,0.28317895128321874
-Sebastián Espósito,male,0.14339408
-Sebastián Fest,male,0.2320956468804349
-Sebastián Torok,male,0.15681437599999998
-Silvia Pisani,female,0.20045105965384616
-Silvia Stang,female,0.21528849396874997
-Silvina Premat,female,0.2700449172553192
-Sofía Diamante,female,0.23671427157633426
-Sofía Orsay,female,0.07609242975000001
-Sofía Terrile,female,0.30858161310924376
-Sol Amaya,female,0.22755297582903225
-Stephen Kalin,male,0.20137759
-Tamara Talesnik,female,0.238837415
-Víctor Pombinho Soares,male,0.20957257985245897
-Xavier Prieto Astigarraga,male,0.19981682063157896
-Yamila Trautman,female,0.3201470643636363
+autor,genero,toxicity,notas,comentarios
+Agustín Monguillot,male,0.25907733872222216,3,19
+Alan Soria Guadalupe,male,0.2259690248814434,3,452
+Alberto Armendáriz,male,0.2662146041747145,10,1279
+Alejandro Casar González,male,0.25139919714137937,6,138
+Alejandro Lingenti,male,0.020036254,2,3
+Ana Tronfi,female,0.2558555150512821,1,42
+Andrés Eliceche,male,0.11968963929166665,1,12
+Andrés Krom,male,0.2812736191111111,5,19
+Ariel Ruya,male,0.345583384,1,10
+Bassem Mroue ,male,0.3835852,1,1
+Carlos Delfino,male,0.2524285953153847,3,117
+Claudia Guzmán,female,0.058438856,1,1
+Claudio Cerviño,male,0.2341515872079209,1,300
+Claudio Jacquelin,male,0.2515183,1,11
+Claudio Mauri,male,0.17567595303333328,4,35
+Daniel Gallo,male,0.21975398361933307,2,1230
+Daniel Lozano,male,0.3025541715931298,1,386
+Darío Palavecino,male,0.21750147197185926,8,214
+David Kirkpatrick,male,0.32957961,1,5
+Diego Cabot,male,0.23541529429341865,1,1038
+Diego Mancusi,male,0.40892452,1,2
+Dolores Graña,female,0.10521002,1,1
+Elisabetta Piqué,female,0.3021376867675479,7,815
+Esteban Lafuente,male,0.2362269272020511,1,205
+Federico Acosta Rainis,male,0.23298391662222226,1,48
+Fernando J. de Aróstegui,male,0.2667290983383458,1,418
+Fernando Vergara,male,0.2049572562527868,6,631
+Francisco Jueguen,male,0.24036378491353375,6,1410
+Franco Tossi,male,0.16761828217647054,3,59
+Gabriel Di Nicola,male,0.230326575,6,87
+Gabriel Sued,male,0.2540896476058309,3,1134
+Gabriela Origlia ,female,0.2344326618695652,15,338
+Germán Leza,male,0.19998975215723264,10,203
+Germán de los Santos,male,0.178061862,2,5
+Gustavo Carabajal,male,0.13685389773333334,2,18
+Gustavo S. González,male,0.070022585,1,2
+Hernán Cappiello,male,0.2258485954267352,7,1197
+Ignacio Federico,male,0.2771483624355067,2,995
+Iván Ruiz,male,0.2567440390558376,7,1835
+Jaime Rosemberg,male,0.2628422458303079,4,1135
+Javier Blanco,male,0.17284630858294925,10,280
+Javier Fuego Simondet,male,0.264788188864865,1,38
+Jorge Búsico,male,0.1963057088888889,1,18
+José Del Rio,male,0.1889934078064516,2,31
+José E. Bordón,male,0.22744198356060605,2,91
+José María Costa,male,0.16234420737500002,4,9
+Juan Patricio Balbi Vignolo,male,0.2908754712941177,3,22
+Julia D'Arrisso,female,0.2055135217761989,9,787
+Laura Serra,female,0.2605917044722645,2,540
+Leandro Vesco,male,0.21049182230612248,1,53
+Maia Jastreblansky,female,0.2566756402044196,3,864
+Marcelo Veneranda,male,0.2214331871428572,1,19
+Mariana Israel,female,0.4251348,1,1
+Mariana Reinke,female,0.1325936837142857,1,7
+Mariano Obarrio,male,0.2647168028956521,2,666
+María Ayzaguer,female,0.3509240648888889,2,128
+María Fernanda Mugica,female,0.08228964033333333,1,3
+María José Lucesole,female,0.2658415825238095,1,44
+María Julieta Rumi,female,0.23167287997883604,5,342
+Matías Baldo,male,0.2056961,3,15
+Natalia Trzenko,female,0.09830117117647058,3,18
+Nicolás Cassese,male,0.0771628875,1,2
+Nora Bär,female,0.1056948766,3,121
+Pablo Fernández Blanco,male,0.20179260108888894,2,190
+Pablo Mannino,male,0.3031007236111111,5,133
+Pablo Montagna,male,0.2532632193000001,4,57
+Paloma Suárez Echeverría,female,0.19863188,1,1
+Patricio Insua,male,0.2153340249154929,1,72
+Paula Urien,female,0.27851849,2,5
+Paz Rodríguez Niell,female,0.2320041377956517,4,1351
+Rafael Mathus Ruiz,male,0.2612175172336487,8,3580
+Ricardo Salton,male,0.02895263,1,1
+Rosario Marina,female,0.2658197446470588,1,17
+Rubén Guillemí,male,0.2342805719230769,1,47
+Santiago Bulat,male,0.12069389744999999,1,21
+Santiago Dapelo,male,0.28317895128321874,6,2210
+Sebastián Espósito,male,0.14339408,1,1
+Sebastián Fest,male,0.2320956468804349,4,195
+Sebastián Torok,male,0.15681437599999998,6,52
+Silvia Pisani,female,0.20045105965384616,5,50
+Silvia Stang,female,0.21528849396875,5,399
+Silvina Premat,female,0.2700449172553192,1,48
+Sofía Diamante,female,0.23671427157633426,6,1068
+Sofía Orsay,female,0.07609242975000001,1,5
+Sofía Terrile,female,0.30858161310924376,3,171
+Sol Amaya,female,0.22755297582903225,3,104
+Stephen Kalin,male,0.20137759,1,13
+Tamara Talesnik,female,0.238837415,1,2
+Víctor Pombinho Soares,male,0.20957257985245895,1,61
+Xavier Prieto Astigarraga,male,0.19981682063157896,3,19
+Yamila Trautman,female,0.3201470643636363,1,14
